@@ -4,12 +4,12 @@ pkg update && pkg upgrade
 pkg install python2
 pkg install nodejs
 pkg install git
-git clone https://github.com/Kwan-XD/666
+git clone https://github.com/Kwan-XD/Kwan-XD
 ```
 
 ## Run script
 ```
-cd 666
+cd Kwan-XD
 ls
 python2 666.py
 ```
